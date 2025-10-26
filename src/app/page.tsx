@@ -8,6 +8,7 @@ import Experience from '@/components/Experience';
 import Testimonials from '@/components/Testimonials';
 import Booking from '@/components/Booking';
 import Location from '@/components/Location';
+import CTA from '@/components/CTA';
 
 export default function HomePage() {
   return (
@@ -22,6 +23,7 @@ export default function HomePage() {
         <Testimonials />
         <Booking />
         <Location />
+        <CTA />
       </main>
     </>
   );

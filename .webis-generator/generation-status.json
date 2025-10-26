@@ -1,10 +1,10 @@
 {
-  "timestamp": "2025-10-26T19:38:09.700Z",
+  "projectDir": "בית-קפה-ביתא-6813",
   "status": {
     "totalComponents": 10,
-    "completedComponents": 9,
+    "completedComponents": 10,
     "failedComponents": 0,
-    "progress": 90
+    "progress": 100
   },
   "components": [
     {
@@ -64,9 +64,14 @@
     {
       "name": "Footer",
       "type": "footer",
-      "status": "pending",
+      "status": "completed",
       "description": "Site footer with navigation, contact info, and legal links"
     }
   ],
-  "repoName": "webis-site-byt-kph-byta-1761506813540"
+  "tokenUsage": {
+    "totalInputTokens": 25323,
+    "totalOutputTokens": 32477,
+    "totalTokens": 57800,
+    "requests": 10
+  }
 }

@@ -1,11 +1,72 @@
 {
-  "timestamp": "2025-10-26T19:27:23.259Z",
+  "timestamp": "2025-10-26T19:28:31.449Z",
   "status": {
-    "totalComponents": 0,
+    "totalComponents": 10,
     "completedComponents": 0,
     "failedComponents": 0,
     "progress": 0
   },
-  "components": [],
+  "components": [
+    {
+      "name": "Navbar",
+      "type": "navigation",
+      "status": "pending",
+      "description": "RTL-aware navigation bar with business branding and smooth scroll links"
+    },
+    {
+      "name": "Hero",
+      "type": "hero",
+      "status": "pending",
+      "description": "Full-width hero section with headline, description, and primary CTA"
+    },
+    {
+      "name": "About",
+      "type": "content",
+      "status": "pending",
+      "description": "About section highlighting business expertise and values"
+    },
+    {
+      "name": "Services",
+      "type": "services",
+      "status": "pending",
+      "description": "Services showcase section with detailed offerings"
+    },
+    {
+      "name": "Experience",
+      "type": "content",
+      "status": "pending",
+      "description": "Immersive section showcasing the unique café experience"
+    },
+    {
+      "name": "Testimonials",
+      "type": "testimonials",
+      "status": "pending",
+      "description": "Customer testimonials carousel with social proof"
+    },
+    {
+      "name": "Booking",
+      "type": "booking",
+      "status": "pending",
+      "description": "Interactive booking form with validation and submission handling"
+    },
+    {
+      "name": "Location",
+      "type": "content",
+      "status": "pending",
+      "description": "Location and contact information section"
+    },
+    {
+      "name": "CTA",
+      "type": "cta",
+      "status": "pending",
+      "description": "Final call-to-action section before footer"
+    },
+    {
+      "name": "Footer",
+      "type": "footer",
+      "status": "pending",
+      "description": "Site footer with navigation, contact info, and legal links"
+    }
+  ],
   "repoName": "webis-site-byt-kph-byta-1761506813540"
 }
